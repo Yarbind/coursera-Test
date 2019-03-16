@@ -1,1 +1,3 @@
-This is for checking the functionality of git hub account on my laptop for different web ppurposes.
+This is for checking the functionality of git hub account on my laptop for different web purposes.
+It is extremely important to get know about github so that we can work in more smart way.
+
