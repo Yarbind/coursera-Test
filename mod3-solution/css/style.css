@@ -1,0 +1,52 @@
+body{
+	background-color: rgb(33,44,55);
+}
+#header-nav {               /*for Header */
+  background-color: #00ffcc;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-brand{
+	font-size: 1.6em;
+	font-weight: bold;
+	font-family: "Times New Roman", Times, serif;
+	padding-top: 20px;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: black;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #ccaadd;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+.jumbotron{
+	width: 100%;
+	height: 1000px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.page-header{
+	background-color: rgb(33,44,55);
+	color: white;
+	text-align: center;
+	border-bottom: 1px solid rgb(33,44,55);
+}
+#head{
+	text-align: center;
+	font-size: 30px;
+
+}
+
+
